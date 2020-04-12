@@ -1,0 +1,12 @@
+pokemon {
+
+    background-color: #c59732;
+    color: rgb(107, 72, 72);
+    padding: 10px;
+    font-family: Cambria;
+    text-align: space-between;
+    align-items: space-evenly;
+    display: flex;
+    flex-direction: column;
+  }
+  
